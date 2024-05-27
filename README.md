@@ -18,3 +18,13 @@ This project implements a machine learning technique to monitor student uniform 
 - Python (>=3.10)
 - OpenCV
 - PyTorch (CUDA 12.1)
+- YOLOv8
+
+### Instructions
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/smartviewbsu/SMARTVIEW.git
+   
+2. Run the uniform.py file
